@@ -1,8 +1,8 @@
 package main
 
 import (
-	p2 "basic/lan-structure/packgae1"
 	"fmt"
+	p2 "study_go/lan-structure/packgae1"
 )
 
 // 每个包在引用的时候都会调用
